@@ -1,0 +1,26 @@
+.cabecalho{
+    background-color: rgba(0, 47, 255, 0.637);
+    color: white;
+    padding: 15px;
+}
+.cabecalho ol {
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.cabecalho ol a{
+ width: 9%;
+    color: white;
+    text-decoration: none;
+}
+.cabecalho ol a:hover {
+    background-color:  rgba(0, 47, 255, 0.637);
+}
+.cabecalho ol lo{
+    padding: 15px;
+    width: 50%;
+}
